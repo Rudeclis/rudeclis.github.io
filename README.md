@@ -96,7 +96,7 @@
       }
     </style>
   </head>
-  <body>
+    <body>
     <div>
       <h1>Vergelijking M365 E3 en Alternatieven</h1>
     </div>
@@ -107,7 +107,7 @@
             <tr>
               <td class="tableHeaderData"></td>
               <td class="tableHeaderData">
-                <div>M365 E3</div>
+                <div>M365 E3 test</div>
                 <div id="headerPrice">€ 2.548.000,00 per jaar</div>
               </td>
               <td class="tableHeaderData">
@@ -120,7 +120,7 @@
               </td>
               <td class="tableHeaderData">
                 <div>WPS Cloud</div>
-                <div id="headerPrice">€ 359.940,00 per jaar</div>
+                <div id="headerPrice">€ 727.140,00 per jaar</div>
               </td>
             </tr>
           </tbody>
@@ -203,7 +203,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
             <td>
-              ???
+              <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
             <td>
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
@@ -309,10 +309,20 @@
               </div>
             </td>
             <td>
-              ?????
+              <div>
+                <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">                
+              </div>
+              <div>
+                (3 GB)
+              </div>
             </td>
             <td>
-              <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
+              <div>
+                <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">                
+              </div>
+              <div>
+                (20 GB)
+              </div>
             </td>
           </tr>
           <tr class="tableRow" id="tableRowOdd">
@@ -372,4 +382,9 @@
               vinkje
             </td>
           </tr>
-  
+        </tbody>
+      </table>
+    </div>
+
+  </body>
+</html>
