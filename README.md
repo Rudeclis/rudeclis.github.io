@@ -374,9 +374,4 @@
               vinkje
             </td>
           </tr>
-        </tbody>
-      </table>
-    </div>
-
-  </body>
-</html>
+  
