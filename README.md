@@ -32,7 +32,7 @@
         .header {
           margin: 0px 0px 0px;
           padding: 16px 0px 16px;
-          background: #2596be;
+          background: #ff1c04;
           color: #f8f4f4;
           width: 100%;
           border-bottom: 2px solid black;
