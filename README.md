@@ -199,7 +199,7 @@
               </div>
             </th>
             <td>
-              <img src="https://icons.iconarchive.com/icons/wefunction/woofunction/32/close-icon.png">
+              <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
             <td>
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
