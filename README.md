@@ -102,30 +102,56 @@
     </div>
     <div class="header" id="myHeader">
       <h2>
-        <table class="tableHeader">
-          <tbody>
-            <tr>
-              <td class="tableHeaderData"></td>
-              <td class="tableHeaderData">
-                <div>M365 E3 test</div>
-                <div id="headerPrice">€ 2.548.000,00 per jaar</div>
-              </td>
-              <td class="tableHeaderData">
-                <div>M365 F3</div>
-                <div id="headerPrice">€ 482.400,00 per jaar</div>
-              </td>
-              <td class="tableHeaderData">
-                <div>Nedap Ons</div>
-                <div id="headerPrice">€ 943.488,00 per jaar</div>
-              </td>
-              <td class="tableHeaderData">
-                <div>WPS Cloud</div>
-                <div id="headerPrice">€ 727.140,00 per jaar</div>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </h2>
+      <table class="tableHeader">
+        <tbody>
+          <tr>
+            <td class="tableHeaderData"></td>
+            <td class="tableHeaderData">
+              <div>M365 E3</div>
+              <div id="headerPrice">€ 2.548.000,00 per jaar basiskosten
+              </div>
+
+            </td>
+            <td class="tableHeaderData">
+              <div>M365 F3</div>
+              <div id="headerPrice">€ 482.400,00 per jaar
+              </div>
+              <div id="headerPrice">
+                € 367.200,00
+                <br>(Extra opslag kosten)
+              </div>
+              <div id="headerPrice">
+                Totaal: € 849.600,00 
+              </div>
+            </td>
+            <td class="tableHeaderData">
+              <div>Nedap</div>
+              <div id="headerPrice">€ 943.488,00 per jaar basiskosten
+              </div>
+              <div id="headerPrice">
+                € 647.200,00
+                <br>(Training + OS)
+              </div>
+              <div id="headerPrice">
+                Totaal: € 1.590.688,00 
+              </div>
+            </td>
+            <td class="tableHeaderData">
+              <div>WPS Cloud</div>
+              <div id="headerPrice">€ 359.940,00 per jaar basiskosten
+              </div>
+              <div id="headerPrice">
+                € 647.200,00
+                <br>(Training + OS)
+              </div>
+              <div id="headerPrice">
+                Totaal: € 1.171.940,00 
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </h2>
     </div>
     <div class="content">
       <table class="table">
