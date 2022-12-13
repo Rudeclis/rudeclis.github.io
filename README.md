@@ -155,7 +155,7 @@
           <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
-                Geldeelde Cloudopslag
+                Gedeelde Cloudopslag
               </div>
             </th>
             <td>
