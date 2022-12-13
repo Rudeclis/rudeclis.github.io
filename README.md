@@ -115,7 +115,7 @@
                 <div id="headerPrice">€ 482.400,00 per jaar</div>
               </td>
               <td class="tableHeaderData">
-                <div>Nedap</div>
+                <div>Nedap Ons</div>
                 <div id="headerPrice">€ 943.488,00 per jaar</div>
               </td>
               <td class="tableHeaderData">
@@ -150,6 +150,46 @@
             </td>
             <td class="tableData">
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
+            </td>
+          </tr>
+          <tr class="tableRow">
+            <th scope="row">
+              <div>
+                Persoonlijke Opslag
+              </div>
+              <div id="nonBold">
+                (Met hoeveelheid opslag)
+              </div>
+            </th>
+            <td>
+              <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">                
+              </div>
+              <div>
+                (5 TB)
+            </td>
+            <td>
+              <div>
+                <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">                
+              </div>
+              <div>
+                (2 GB)
+              </div>
+            </td>
+            <td>
+              <div>
+                <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">                
+              </div>
+              <div>
+                (3 GB)
+              </div>
+            </td>
+            <td>
+              <div>
+                <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">                
+              </div>
+              <div>
+                (20 TB)
+              </div>
             </td>
           </tr>
           <tr class="tableRow" id="tableRowOdd">
