@@ -180,7 +180,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow">
+          <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
                 Persoonlijke Opslag
@@ -220,7 +220,7 @@
               </div>
             </td>
           </tr>
-          <tr class="tableRow" id="tableRowOdd">
+          <tr class="tableRow">
             <th scope="row">
               <div>
                 Gedeelde Cloudopslag
@@ -239,7 +239,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow">
+          <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
                 Notitie Applicatie
@@ -258,7 +258,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow" id="tableRowOdd">
+          <tr class="tableRow">
             <th scope="row">
               <div>
                 Kalender Applicatie
@@ -277,7 +277,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow">
+          <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
                 Webversie
@@ -296,7 +296,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow" id="tableRowOdd">
+          <tr class="tableRow">
             <th scope="row">
               <div>
                 Desktop Versie
@@ -315,7 +315,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow">
+          <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
                 Mobiele Versie
@@ -334,7 +334,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow" id="tableRowOdd">
+          <tr class="tableRow">
             <th scope="row">
               <div>
                 File Sharing
@@ -353,7 +353,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png">
             </td>
           </tr>
-          <tr class="tableRow">
+          <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
                 E-mail Applicatie
@@ -393,7 +393,7 @@
               </div>
             </td>
           </tr>
-          <tr class="tableRow" id="tableRowOdd">
+          <tr class="tableRow">
             <th scope="row">
               <div>
                 Operating System inbegrepen
@@ -412,7 +412,7 @@
               <img src="https://icons.iconarchive.com/icons/wefunction/woofunction/32/close-icon.png">
             </td>
           </tr>
-          <tr class="tableRow">
+          <tr class="tableRow" id="tableRowOdd">
             <th scope="row">
               <div>
                 Training nodig
@@ -431,7 +431,7 @@
               <img src="https://icons.iconarchive.com/icons/icons8/windows-8/32/Very-Basic-Checkmark-icon.png"> 
             </td>
           </tr>
-          <tr class="tableRow" id="tableRowOdd">
+          <tr class="tableRow">
             <th scope="row">
               <div>
                 Migratie nodig
