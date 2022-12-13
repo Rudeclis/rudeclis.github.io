@@ -71,6 +71,7 @@
       }
 
       .tableHeader {
+        color: #f8f4f4;
         border-collapse: collapse;
         text-align: center;
         width: 90%;
@@ -78,6 +79,7 @@
       }
 
       .tableHeaderData {
+        color: #f8f4f4;
         width: 20%;
       }
 
